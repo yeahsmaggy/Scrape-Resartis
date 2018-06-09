@@ -5,11 +5,11 @@ The aim was to get all the artist residencies in semi arid countries in order to
 
 Part of www.joyaarteyecologia.org
 
-## Prereqs
+## Prereqs
 
 - Ruby
 
-## Install
+## Install
 
 - clone the repo
 - run ruby ruby.py
